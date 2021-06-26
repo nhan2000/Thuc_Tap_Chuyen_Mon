@@ -4,6 +4,6 @@ config trong file: application\config\
 
 Link admin: /admin/login
 
-email: admin@gmail.com
+email: nhan2000ts@gmail.com
 
-pass: 1234
+pass: 123456
