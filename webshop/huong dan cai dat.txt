@@ -1,4 +1,6 @@
-cai dat database:  database/webshop.sql tien hanh import database
+cai dat database:  database/webshop.sql 
+
+tien hanh import database fashion_shop.sql
 
 config trong file: application\config\
 
